@@ -66,6 +66,3 @@ To provide an interactive visualization tool to analyze churn patterns and ident
 ![CustomerChurn](customer-churn-dashboard.png)
 
 
-##7. Conclusion
-
-This dashboard helps businesses identify key churn drivers and take proactive actions to improve customer retention and reduce revenue loss.
