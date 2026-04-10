@@ -1,61 +1,71 @@
 # Customer-Churn-Dashboard
-1. Project Title / Headline
+##1. Project Title / Headline
 
 Customer Churn and Revenue Dashboard – Power BI
 
-An interactive dashboard that analyzes customer churn, revenue loss, and subscription behavior to help businesses understand customer retention patterns.
+An interactive dashboard that analyzes customer churn, revenue loss, and subscription behavior to understand customer retention trends.
 
-2. Short Description / Purpose
+##2. Short Description / Purpose
 
-This Power BI dashboard provides insights into customer churn by analyzing customer demographics, subscription plans, and payment methods. It helps identify key factors contributing to churn and revenue loss, enabling data-driven decision-making.
+This Power BI dashboard provides insights into customer churn across different demographics, subscription plans, and payment methods. It helps businesses identify patterns and factors that lead to customer churn and revenue loss.
 
-3. Data Source
+##3. Data Source
 
 Dataset: Customer Churn Dataset
 
-The dataset includes:
+###The dataset includes information about:
 
-Customer information
-Subscription plans (Basic, Standard, Premium)
-Payment methods
-Customer demographics (age, gender)
-Churn status
-Revenue and monthly charges
+-Customer demographics
 
-4. Features / Highlights
-Business Problem
+-Subscription plans
 
-Businesses face challenges in retaining customers and minimizing revenue loss due to churn.
+-Payment methods
 
-Goal of the Dashboard
+-Churn status
 
-To create an interactive dashboard that helps analyze churn patterns and identify high-risk customer segments.
+-Revenue and monthly charges
 
-Key Visuals
-KPI Cards (Total Customers, Active Customers, Churned Customers, Churn Rate, Revenue Lost, Avg Monthly Charges)
-Churn Rate by Gender
-Churn Rate by Age Group
-Churn Rate by Subscription Plan
-Revenue Loss by Plan
-Churn Rate by Payment Method
-Revenue Distribution (Tree Map)
+##4. Features / Highlights
 
-5. Insights
-Customers aged 26–35 show the highest churn rate.
-Unknown and Basic subscription plans have higher churn compared to Premium.
-Mailed check payment method has the highest churn rate.
-Premium plan contributes the highest revenue loss, indicating high-value customer churn.
+###Business Problem
 
-6. Tools & Technologies
-Power BI – Data visualization
-Excel / CSV – Data source
-Data Cleaning & Transformation – Power Query
+Businesses often struggle to understand why customers leave and which segments contribute most to revenue loss.
 
-7. Screenshot
+###Goal of the Dashboard
+
+To provide an interactive visualization tool to analyze churn patterns and identify high-risk customers.
+
+###Key Visuals
+
+-KPI Cards
+
+-Churn Rate by Gender
+
+-Churn Rate by Age Group
+
+-Churn Rate by Subscription Plan
+
+-Revenue Loss by Plan
+
+-Churn Rate by Payment Method
+
+-Revenue Distribution
+
+##5. Insights
+
+-The 26–35 age group has the highest churn rate.
+
+-Basic and Unknown subscription plans show higher churn.
+
+-Mailed check payment method has the highest churn rate.
+
+-Premium plan contributes the highest revenue loss.
+
+##6.Screenshot
+
 ![CustomerChurn](customer-churn-dashboard.png)
 
 
-
-8. Conclusion
+##7. Conclusion
 
 This dashboard helps businesses identify key churn drivers and take proactive actions to improve customer retention and reduce revenue loss.
