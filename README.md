@@ -3,7 +3,7 @@
 
 Customer Churn and Revenue Dashboard – Power BI
 
-An interactive dashboard that analyzes customer churn, revenue loss, and subscription behavior to understand customer retention trends.
+Developed an interactive Power BI dashboard to analyze customer churn, subscription behavior, and revenue impact to understand customer retention trends.
 
 ##2. Short Description / Purpose
 
@@ -29,11 +29,11 @@ Dataset: Customer Churn Dataset
 
 ###Business Problem
 
-Businesses often struggle to understand why customers leave and which segments contribute most to revenue loss.
+Businesses require customer analytics to identify churn patterns, revenue loss, and high-risk customer segments affecting retention.
 
 ###Goal of the Dashboard
 
-To provide an interactive visualization tool to analyze churn patterns and identify high-risk customers.
+To provide interactive analytics for monitoring customer churn trends and revenue impact.
 
 ###Key Visuals
 
